@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wk1", "Wk1\Wk1.csproj", "{AB05F17A-56D3-4A15-8C70-BFA8C3E0EE44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wk1 - Observable", "Wk1 - Observable\Wk1 - Observable.csproj", "{AB05F17A-56D3-4A15-8C70-BFA8C3E0EE44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
